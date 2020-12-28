@@ -7,3 +7,5 @@ var pais= "argentina" //la palabra reserbada VAR es papra declarar  una variable
            let B=4
            let resultado= A+B
            console.log(resultado);
+
+           //modificacion
